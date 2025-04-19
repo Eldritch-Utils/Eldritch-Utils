@@ -1,6 +1,6 @@
 # Eldritch-Utils
 
-> *"He who sees the keys and guards the gates shall know what lies beyond the firewall."*
+> *"Yog-Sothoth knows the gate. Yog-Sothoth is the gate. Yog-Sothoth is the key and guardian of the gate"*
 
 Welcome to **Eldritch-Utils**, an open-source collective of arcane security tools and cursed developer utilities. Inspired by the unknowable, built for the practical.
 
